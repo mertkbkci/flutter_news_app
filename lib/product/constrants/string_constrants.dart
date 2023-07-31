@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 @immutable
 class StringConstrants {
-
-  const StringConstrants._();
+    const StringConstrants._();
   static const String appName = "Flutter Demo";
+
 }

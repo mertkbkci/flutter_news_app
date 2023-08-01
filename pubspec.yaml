@@ -1,3 +1,5 @@
+
+
 name: flutter_news_app
 description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
@@ -31,19 +33,19 @@ dependencies:
   flutter:
     sdk: flutter
 
-
+  
  
   cupertino_icons: ^1.0.2
 
  # core
-  easy_localization: ^3.0.2
+ 
   flutter_riverpod: ^2.3.6
   kartal: ^3.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+    
   very_good_analysis: ^5.0.0+1
 
   # The "flutter_lints" package below contains a set of recommended lints to
